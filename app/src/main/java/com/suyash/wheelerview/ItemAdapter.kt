@@ -5,7 +5,7 @@ import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
 
 class ItemAdapter : RecyclerView.Adapter<ItemAdapter.ViewHolder>() {
-    
+
    inner class ViewHolder(view: View) : RecyclerView.ViewHolder(view){
 
 
